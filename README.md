@@ -33,3 +33,7 @@ Inspecting the files inside an Android [APK](https://en.wikipedia.org/wiki/Andro
 1. Results in wrong timestamps
 
 ![Wrong timestamps](carbon.png)
+
+## License
+
+[MIT](./LICENSE) 
