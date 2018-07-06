@@ -1,10 +1,12 @@
-# RN AwesomeProject
+# React Native Timestamp Bug
 
-## Bug
+## Description
 
 Inspecting the files inside an Android [APK](https://en.wikipedia.org/wiki/Android_application_package) created with React Native [v0.56](https://github.com/facebook/react-native/tree/v0.56.0) results in timestamps from **December 31, 1979**.
 
-### Steps to reproduce
+![Wrong timestamps](timestamps.png)
+
+## Steps to reproduce
 
 1. Setup project
 
@@ -30,10 +32,10 @@ Inspecting the files inside an Android [APK](https://en.wikipedia.org/wiki/Andro
     unzip ../app-debug.apk
     ```
 
-1. Results in wrong timestamps
+## Environment
 
-![Wrong timestamps](carbon.png)
+![react native info](environment.png)
 
 ## License
 
-[MIT](./LICENSE) 
+[MIT](./LICENSE) (c) 2018 Rodrigo Bermúdez Schettino
