@@ -1,6 +1,6 @@
 # React Native Timestamp Bug
 
-This repo includes a [MCVE](https://stackoverflow.com/help/mcve) (Minimal, Complete, and Verifiable example) to issue [#20075](https://github.com/facebook/react-native/issues/20075) in [React Native](https://github.com/facebook/react-native).
+[MCVE](https://stackoverflow.com/help/mcve) (Minimal, Complete, and Verifiable example) for [React Native](https://github.com/facebook/react-native) issue [#20075](https://github.com/facebook/react-native/issues/20075).
 
 ## Description
 
